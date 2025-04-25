@@ -1,0 +1,39 @@
+[
+  {
+    "productName": "p Headphone 3",
+    "purchaseDate": "2025-04-23",
+    "warrantyMonths": 12,
+    "warrantyEndDate": "2026-04-23"
+  },
+  {
+    "productName": "p Headphone 3",
+    "purchaseDate": "2025-04-16",
+    "warrantyMonths": 12,
+    "warrantyEndDate": "2026-04-16"
+  },
+  {
+    "productName": "head",
+    "purchaseDate": "2025-04-24",
+    "warrantyMonths": 12,
+    "warrantyEndDate": "2026-04-24"
+  },
+  {
+    "productName": "p Headphone 3",
+    "purchaseDate": "2025-04-17",
+    "warrantyMonths": 12,
+    "warrantyEndDate": "2026-04-17"
+  },
+  {
+    "productName": "Wishcare",
+    "purchaseDate": "2024-12-23T00:00:00.000Z",
+    "warrantyMonths": 12,
+    "warrantyEndDate": "2025-12-23"
+  },
+  {
+    "productName": "p Headphone 3",
+    "purchaseDate": "2025-04-17T00:00:00.000Z",
+    "warrantyMonths": 12,
+    "warrantyExpiry": "2026-04-17",
+    "reminderDays": 7
+  }
+]
